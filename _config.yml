@@ -3,28 +3,28 @@ remote_theme: TolgaTatli/Moonrise
 title: Enwise Insight
 bio: "Lorem ipsum dolor sit amet."
 description: "The quick brown fox jumps over the lazy dog."
-reading_time: true
-words_per_minute: 200
-logo: "assets/img/logo.png"
-background: "assets/img/moonrise-background.jpg"
-tiled_bg: false # Set this true if you want to tile your background image, otherwise it will be covered
-locale: en_US
-url: https://noameyal.github.io/enwiseinsight/
+#reading_time: true
+#words_per_minute: 200
+#logo: "assets/img/logo.png"
+#background: "assets/img/moonrise-background.jpg"
+#tiled_bg: false # Set this true if you want to tile your background image, otherwise it will be covered
+#locale: en_US
+#url: https://noameyal.github.io/enwiseinsight/
 
 # Jekyll
-permalink: /:title/
-markdown: kramdown
-highlighter: rouge
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  enable_coderay: false
-mathjax: true
-sass:
-  sass_dir: _sass
-  style: compressed
+#permalink: /:title/
+#markdown: kramdown
+#highlighter: rouge
+#kramdown:
+#  auto_ids: true
+#  footnote_nr: 1
+#  entity_output: as_char
+#  toc_levels: 1..6
+#  enable_coderay: false
+#mathjax: true
+#sass:
+#  sass_dir: _sass
+#  style: compressed
 
 # Comments
 
